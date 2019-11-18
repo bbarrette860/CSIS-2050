@@ -1,0 +1,8 @@
+	During the Spring 2019 term, I was taking CSIS 1112 and there was a big final project due at the end of the term.
+There was 6 of us in the group and we divided the workload between us so we can get the project done quicker. We had a
+leader on the team that would take the code and compile it all together to show that it worked. The problem with this is
+that we didn't know if we made any mistakes on our parts of code or what changes they made. 
+	If everyone was using git and github then we would of been able to commit our code to the site. Then when someone 
+would change some of the code there would be a message showing what was changed. Also comments could have been added to say
+what needed to be added or changed. This would have definitely helped with making the project run smoother with the amount
+of people in the group and less mistakes being made. 
